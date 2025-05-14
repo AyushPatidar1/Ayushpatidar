@@ -17,7 +17,7 @@
     🔹 Open-Source Contributions – I love collaborating on open-source projects and contributing to the community.
     🔹 Optimized Coding Practices – I focus on clean code, performance optimization, and maintainability.
 
-🚀 Projects & Contributions
+### 🚀 Projects & Contributions
 
 Check out some of my best work:
 
@@ -26,13 +26,13 @@ Check out some of my best work:
 📊 Admin Dashboard – MERN-based dashboard with role-based authentication.
 🔗 Explore My GitHub Projects
 
-📌 What You Can Expect from Me
+### 📌 What You Can Expect from Me
 
 ✅ High-quality, scalable, and well-documented code
 ✅ Collaborative problem-solving approach
 ✅ Sharing insights & knowledge with the dev community
 
-💡 Let's Connect!
+### 💡 Let's Connect!
 
 If you love tech, open-source, or just want to discuss ideas, feel free to reach out!
 📩 Email: ayushpatidar8827@gmail.com
