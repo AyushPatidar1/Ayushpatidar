@@ -3,12 +3,12 @@
 
 🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
 
-🛠 Tech Stack & Skills
+### 🛠 Tech Stack & Skills
 
-Frontend: React.js, Tailwind CSS
-Backend: Node.js, Express.js
-Database: MongoDB
-Tools & DevOps:  GitHub Actions, 
+     🔹Frontend: React.js, Tailwind CSS
+     🔹Backend: Node.js, Express.js
+     🔹Database: MongoDB
+     🔹Tools :  GitHub Actions, 
 
 
 🌟 What I Do
