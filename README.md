@@ -1,18 +1,24 @@
 👋 Hey, I'm Ayush Patidar – MERN Stack Developer
+
+
 🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
 
 🛠 Tech Stack & Skills
+
 Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB
 Tools & DevOps:  GitHub Actions, 
 
+
 🌟 What I Do
+
 🔹 Develop Scalable Applications – I specialize in building high-performance, full-stack web apps using the MERN stack.
 🔹 Open-Source Contributions – I love collaborating on open-source projects and contributing to the community.
 🔹 Optimized Coding Practices – I focus on clean code, performance optimization, and maintainability.
 
 🚀 Projects & Contributions
+
 Check out some of my best work:
 
 🛍 E-commerce Platform – Full-stack e-commerce app with Stripe integration.
@@ -21,11 +27,13 @@ Check out some of my best work:
 🔗 Explore My GitHub Projects
 
 📌 What You Can Expect from Me
+
 ✅ High-quality, scalable, and well-documented code
 ✅ Collaborative problem-solving approach
 ✅ Sharing insights & knowledge with the dev community
 
 💡 Let's Connect!
+
 If you love tech, open-source, or just want to discuss ideas, feel free to reach out!
 📩 Email: ayushpatidar8827@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/ayush-patidar-3a339028a/
